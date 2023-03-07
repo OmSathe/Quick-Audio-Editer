@@ -5,8 +5,7 @@ Steps:
 1. Open the main.exe file to use the application
 2. Click Open to open the file explorer
 3. Choose your file
-4. Click export to export the selected file
+4. Click export to export the selected file in your chosen directory
 
 Future Plans:
 1. Add individual export buttons for each audio edit
-2. exported file will be exported to downloads
