@@ -9,3 +9,4 @@ Steps:
 
 Future Plans:
 1. Add individual export buttons for each audio edit
+2. Make console look better
